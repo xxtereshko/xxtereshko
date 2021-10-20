@@ -2,7 +2,7 @@
 
 👯 I’m looking to collaborate on
 
-📫 How to reach me: [telegram](https://t.me/xxtereshko) :: [tereshko.net](https://tereshko.net) :: email
+📫 How to reach me: [telegram](https://t.me/xxtereshko) :: [tereshko.net](https://tereshko.net)
 
 <!--
 **xxtereshko/xxtereshko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
