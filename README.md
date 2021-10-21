@@ -2,7 +2,7 @@
 
 👯 I’m looking to collaborate on
 
-📫 React me via: [telegram](https://t.me/xxtereshko)
+📫 Reach me via: [telegram](https://t.me/xxtereshko)
 
 <!--
 **xxtereshko/xxtereshko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
