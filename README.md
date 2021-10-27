@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-👯 I’m looking to collaborate on
-
 📫 Reach me via: [telegram](https://t.me/xxtereshko)
 
 <!--
