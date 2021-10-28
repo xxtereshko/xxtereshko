@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 📫 [telegram](https://t.me/xxtereshko)
 
