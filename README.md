@@ -1,8 +1,8 @@
 ### 👋
 
-[tereshko.net](https://tereshko.net)
-[hey@tereshko.net](mailto:hey@tereshko.net)
-[telegram](https://t.me/xxtereshko)
+- 🌎 [tereshko.net](https://tereshko.net)
+- ✉️ [hey@tereshko.net](mailto:hey@tereshko.net)
+- ✨ [telegram](https://t.me/xxtereshko)
 
 <!--
 **xxtereshko/xxtereshko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
